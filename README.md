@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hey there, I'm Dixon. I'm a software developer, backend enthusiast, and lifelong learner. Check out my work]
 
 <!--
 **dkav1122/dkav1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
