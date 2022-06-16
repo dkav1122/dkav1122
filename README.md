@@ -16,6 +16,7 @@ git
 heroku
 java
 javascript
+dynamoDB
 mongodb
 nodejs
 postgresql
